@@ -1,7 +1,7 @@
 # ToDo List
 ____
 
-### This is simple todo app maked with HTML, CSS, JS and Webpack
+### This is a simple todo app maked with HTML, CSS, JS and Webpack
 ____
 ![Screenshot](screenshot.png "Screenshot")
 ____
@@ -16,4 +16,5 @@ ____
 ____
 - Add/Remove ToDo items
 - Done/Undone status toggle
+- Filter showing todos (All/Done/Undone)
 - Your ToDos saving to the localstorage
