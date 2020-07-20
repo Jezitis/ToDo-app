@@ -7,10 +7,11 @@ ____
 ____
 # Installation and running
 ____
-- Clone this repo to your local machine using `git@github.com:Jezitis/ToDo-app.git`
-- Open folder in your comand line
-- In command line type `npm start` to start a local server
-    - or `npm run build`, go to `build` directory and open `index.html`
+- Clone this repo to your local machine using `git clone git@github.com:Jezitis/ToDo-app.git`
+- Open folder in your command line
+- In command line type `npm install` to install all required files
+- After installing type `npm start` to start a local server
+    - or `npm run build`, then go to `build` directory and open `index.html`
 ____
 # Features
 ____
